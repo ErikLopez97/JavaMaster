@@ -62,5 +62,7 @@ public class EjemploConsumer {
         Supplier<String> proveedor = () -> "Hola munda lambda supplier";
         System.out.println(proveedor.get());
 
+
+
     }
 }
